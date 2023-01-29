@@ -6,6 +6,7 @@
 - *Want to run it localy !!!*
 ## Setup and run:
 **!!! Ofcourse you hve to install node.js !!!**
+
 **For some backend dependencies it needs api keys and secret keys:**
 *Create a `.env` file*
 
@@ -24,16 +25,13 @@ CLOUDINARY_API_SECRET="<cloudinary api secret>"
 - **OpenAI:** Create an account in OpenAI -> Click on your profile -> Go to `View API keys` and create a secret API key and add to your .env file.
 
 *For running on localhost:*
-*FRONTEND :*
 
-**Go to client directory in terminal then:**
+*FRONTEND :* **Go to client directory in terminal then:**
 ```bash
 npm install
 npm run dev
 ```
-*BACKEND:*
-
-**Go to server directory in terminal then**
+*BACKEND:* **Go to server directory in terminal then**
 ```bash
 npm start
 ```
