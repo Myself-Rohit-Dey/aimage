@@ -4,14 +4,14 @@
 - **Backend :** cloudinary, cors, dotenv, express.js, mongoose, nodemon, openai
 
 ## Installation & Setup:
-## *FRONTEND:*
-** For Frontend Go to client directory in terminal then: **
+*FRONTEND :*
+**For Frontend Go to client directory in terminal then:**
 ```bash
 npm install
 npm run dev
 ```
-###BACKEND:
-For some backend dependencies which includes api keys and secret keys:
+*BACKEND:*
+**For some backend dependencies which includes api keys and secret keys:**
 *Create a `.env` file*
 
 *`.env` file code:*
