@@ -1,7 +1,7 @@
 # Aimage: *An image genrating App using MERN stack and OPEN AI API.*
--- **Tech stacks :** MERN Stack 
--- **Frontend :** react.js, javascript, node.js, tailwind.css
--- **Backend :** cloudinary, cors, dotenv, express.js, mongoose, nodemon, openai
+- **Tech stacks :** MERN Stack 
+- **Frontend :** react.js, javascript, node.js, tailwind.css
+- **Backend :** cloudinary, cors, dotenv, express.js, mongoose, nodemon, openai
 
 ## Installation & Setup:
 ###FRONTEND:
@@ -24,9 +24,9 @@ CLOUDINARY_API_SECRET="<cloudinary api secret>"
 ```
 
 **How to get the api and secret keys:**
-**Cloudinary:** Create an account in cloudinary and add the cloud name, API key and API secret into the .env file of root folder.
-**mongodb:** Create an account in mogodb atlas -> create a project -> create a username and password for the project -> add a database to connect with your website -> and the code to your .env file.(add your ip address in the network access) 
-**OpenAI:** Create an account in OpenAI -> Click on your profile -> Go to `View API keys` and create a secret API key and add to your .env file.
+- **Cloudinary:** Create an account in cloudinary and add the cloud name, API key and API secret into the .env file of root folder.
+- **mongodb:** Create an account in mogodb atlas -> create a project -> create a username and password for the project -> add a database to connect with your website -> and the code to your .env file.(add your ip address in the network access) 
+- **OpenAI:** Create an account in OpenAI -> Click on your profile -> Go to `View API keys` and create a secret API key and add to your .env file.
 
 ** For Backend Go to server and directory in terminal then **
 ```bash
