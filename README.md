@@ -4,7 +4,7 @@
 - **Backend :** cloudinary, cors, dotenv, express.js, mongoose, nodemon, openai
 
 ## Installation & Setup:
-###FRONTEND:
+## *FRONTEND:*
 ** For Frontend Go to client directory in terminal then: **
 ```bash
 npm install
@@ -28,7 +28,7 @@ CLOUDINARY_API_SECRET="<cloudinary api secret>"
 - **mongodb:** Create an account in mogodb atlas -> create a project -> create a username and password for the project -> add a database to connect with your website -> and the code to your .env file.(add your ip address in the network access) 
 - **OpenAI:** Create an account in OpenAI -> Click on your profile -> Go to `View API keys` and create a secret API key and add to your .env file.
 
-** For Backend Go to server and directory in terminal then **
+**For Backend Go to server and directory in terminal then**
 ```bash
 npm start
 ```
